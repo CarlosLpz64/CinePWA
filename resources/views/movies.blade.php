@@ -7,6 +7,7 @@
   <title>PWA de Películas</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
   <link rel="stylesheet" href="{{ asset('css/styles.css') }}">
+  @laravelPWA
 </head>
 
 <body>

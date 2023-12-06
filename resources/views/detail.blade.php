@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <title>Detalles de la Película</title>
     <link rel="stylesheet" href="{{ asset('css/styles.css') }}">
+    @laravelPWA
 </head>
 <body>
 <x-navbar/>
